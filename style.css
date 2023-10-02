@@ -1,0 +1,20 @@
+#app {
+    background-color: lightblue;
+    text-align: center;
+}
+
+#game {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+#Chatbot {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.names {
+    font-size: 50px;
+    text-align: center;
+}
+
